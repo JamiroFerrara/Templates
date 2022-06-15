@@ -1,0 +1,13 @@
+{
+  "schema": "http://json.schemastore.org/template",
+  "author": "Jamiro Ferrara",
+  "classifications": [ "Common", "Console" ],
+  "identity": "console48",
+  "name": "Example templates: console project",
+  "shortName": "console48",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "_console48"
+}

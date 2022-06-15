@@ -1,0 +1,13 @@
+{
+  "schema": "http://json.schemastore.org/template",
+  "author": "Jamiro Ferrara",
+  "classifications": [ "Common", "Console" ],
+  "identity": "wpftemplate48",
+  "name": "wpftemplate48",
+  "shortName": "wpf48",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "_wpf48"
+}
